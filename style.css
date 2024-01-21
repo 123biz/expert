@@ -229,6 +229,13 @@ section .do-me .do-inner:hover i{
     height: 650px;
 }
 
+.bg2{
+    background:url('images/background2.jpg') center center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 650px;
+}
+
 section.portfolio::after{
     content:"";
     display: block;
